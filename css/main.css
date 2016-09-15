@@ -1,0 +1,116 @@
+
+
+body{
+	background-color:#CEF6F5;
+	height:1200px;
+}
+
+.back-azul {
+
+	height:100px;
+	background-color:#01A9DB;
+}
+
+span {
+   
+   color:#FE2E2E;
+   font-family: 'Baloo Tamma', cursive;
+
+}
+h1{
+   
+   color:#ffffff;
+   font-family: 'Baloo Tamma', cursive;
+
+}
+
+li{
+display:inline-block;
+}
+
+li a{
+text-decoration:none;
+color:#ffffff;
+margin-left:10px;
+font-family:helvetica;
+
+}
+
+.nav{
+margin-top: 37px;
+font-size:15px;
+}
+
+.bonny-9{
+  background-image:url(../img/img-1.jpg);
+  background-repeat:no-repeat; 
+  background-size:cover;
+  padding: 9% 10% 5%;
+}
+
+.cuadrado-opaco {
+    background-color:#01A9DB;
+    opacity:0.8;
+    padding:20px;
+}
+
+h2 {
+   font-size:80px;
+   color:#FE2E2E;
+   font-family: 'Baloo Tamma', cursive;
+   margin:0px;
+}
+.menu-2{
+    text-align:center;
+    margin-top:-24px;
+}
+h6 {
+   font-size:18px;
+   color:#FE2E2E;
+   font-family: 'Baloo Tamma', cursive;
+   padding-top:70%;
+}
+
+p{
+	font-size:15px;
+	font-family:helvetica;
+	text-align:justify;
+	text-align:center;
+}
+
+.blanco{
+	background-color:#ffffff;
+}
+
+.bonny-1{
+
+	background-size:100%;
+	background-image:url(../img/img-1.jpg);
+	background-color:#01A9DB;
+	background-repeat:no-repeat;
+
+}
+.bonny-2{
+
+	background-size:100%;
+	background-image:url(../img/img-2.jpg);
+	background-color:#01A9DB;
+	background-repeat:no-repeat;
+}
+
+.bonny-3{
+
+	background-size:100%;
+	background-image:url(../img/img-3.jpg);
+	background-color:#01A9DB;
+	background-repeat:no-repeat;
+
+}
+.bonny-4{
+
+	background-size:100%;
+	background-image:url(../img/img-4.jpg);
+	background-color:#01A9DB;
+	background-repeat:no-repeat;
+
+}
